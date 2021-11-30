@@ -1,0 +1,54 @@
+body {
+    width: 850px;
+}
+
+
+main {
+    height: 450px;
+    margin-top: 75px;
+    margin-bottom: 25px;
+    background-image: url(https://cdn.pixabay.com/photo/2011/12/15/11/04/eagle-nebula-11172_960_720.jpg);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+}
+div {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+
+}
+section1 {
+    height: 324px;
+    width: 270px;
+    border: transparent;
+    background-color: lightgray;
+}
+
+section2 { 
+    height: 324px;
+    width: 270px;
+    border: transparent;
+    background-color: lightgray;
+}
+section3 {
+    height: 324px;
+    width: 270px;
+    border: transparent;
+    background-color: lightgray;
+}
+h1 {
+    padding-top: 150px;
+}
+h2 {
+ font-size: 25px;   
+}
+
+h3 {
+    font-size: 25px;   
+   }
+
+h4 {
+    font-size: 25px;   
+   }
