@@ -8,15 +8,15 @@ main {
     margin-top: 75px;
     margin-bottom: 25px;
     background-image: url(https://cdn.pixabay.com/photo/2011/12/15/11/04/eagle-nebula-11172_960_720.jpg);
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 50px;
     text-align: center;
     font-family: 'press start 2p';
 
 }
 div {
-    display: flex;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 270px 270px 270px;
     background-color: lightgray;
     font-family: 'press start 2p';
     font-size: 11px;
@@ -70,8 +70,6 @@ button {
     background-color: black;
     color: white;
     font-family: 'press start 2p';
-
-
 }
 
        
